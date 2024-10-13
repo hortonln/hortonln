@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hey, I'm Lauren
 
-<!--
-**hortonln/hortonln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **hortonln/hortonln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m currently working on ... 100 Days of Code Python Bootcamp
 
-Here are some ideas to get you started:
+Check out my repos below of what I've learned thus far in my developer journey.
 
-- 🔭 I’m currently working on ... 100 Days of Code Python Bootcamp
-- 🌱 I’m currently learning ... Python and automation
+
